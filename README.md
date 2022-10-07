@@ -1,8 +1,9 @@
  
 This is just a demo version of the game im working on.
 (i say demo because i dont want to spoil it while slowly updating it, i want to get it out in one big update)
-so yea have fun on the demo ersion of this game
+so yea have fun on the demo version of this game
 
+oh and I SWEAR TO GOD IF ANYONE REUPLOADS THIS THE I WILL ---- -- ---- ----- --- ------- ---. (cant say on github)
 
 
 > Open this page at [https://thunderdrop180.github.io/rpg/](https://thunderdrop180.github.io/rpg/)
