@@ -7,7 +7,7 @@ so yea have fun on the demo version of this game
 
 
 
-> Open this page at [https://thunderdrop180.github.io/rpg/](https://thunderdrop180.github.io/rpg/)
+> Open this page at [https://thunderdrop180.github.io/rpg/](https://thunderdrop180.github.io/rpg/) (broken link haha im not fixing it)
 
 ## Use as Extension
 
